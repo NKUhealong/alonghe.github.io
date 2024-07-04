@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently pursuing the Ph.D. degree with the National Key Laboratory of Fundamental Science on Synthetic Vision, the College of Computer Science, Nankai University, co-advised by Prof. Tao Li. I was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of Dr Huazhu Fu.
+I’m currently pursuing the Ph.D. degree with the College of Computer Science, Nankai University, advised by Prof. Tao Li. I was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2023 to September 2024 under the supervision of Dr Huazhu Fu.
 
 My research interest includes medical image analysis and computer vision.
 
@@ -28,7 +28,7 @@ My research interest includes medical image analysis and computer vision.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/CABNet_structure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/CABNet_structure.png' alt="sym" width="100%"></div></div> <span class='show_paper_citations' data='ybe7pW8AAAAJ:u5HHmVD_uO8C'></span>
 <div class='paper-box-text' markdown="1">
 
 [CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035)
