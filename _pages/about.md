@@ -38,22 +38,22 @@ My research interest includes medical image analysis and computer vision.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035)
+[Progressive multiscale consistent network for multiclass fundus lesion segmentation](https://ieeexplore.ieee.org/abstract/document/9781413)
 
-**Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu.
+**Along He**, Kai Wang, Tao Li, Wang Bo, Hong Kang, and Huazhu Fu.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035)
+[H2Former: An efficient hierarchical hybrid transformer for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10093768)
 
-**Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu.
+**Along He**, Kai Wang, Tao Li, Chengkun Du, Shuang Xia and Huazhu Fu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images//paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035)
+[Bilateral Supervision Network for Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10375506)
 
-**Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu.
+**Along He**, Tao Li, Juncheng Yan, Kai Wang, and Huazhu Fu.
 
 
 # 🎖 Honors and Awards
