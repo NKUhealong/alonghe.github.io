@@ -72,10 +72,6 @@ My research interest includes medical image analysis and computer vision.
 - *2020.09 - now, Ph.D, Nankai University, Tianjin. 
 - *2016.09 - 2020.06*, B.S, Northwest A&F University, Yangling. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Reviewers
 - Conference Reviewer: MICCAI2023, ISBI 2022.
 - Journal Reviewer: IEEE TMI, MIA, IEEE JBHI
