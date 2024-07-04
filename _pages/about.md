@@ -28,7 +28,7 @@ My research interest includes medical image analysis and computer vision.
 
 # 📝 Publications 
 
-<div class='show_paper_citations' data='ybe7pW8AAAAJ:u5HHmVD_uO8C'> class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/CABNet_structure.png' alt="sym" width="100%"></div></div> 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/CABNet_structure.png' alt="sym" width="100%"></div></div> 
 <div class='paper-box-text' markdown="1">
 
 [CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035)
