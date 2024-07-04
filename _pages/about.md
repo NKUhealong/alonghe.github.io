@@ -37,7 +37,7 @@ My research interest includes medical image analysis and computer vision.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2022</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressive multiscale consistent network for multiclass fundus lesion segmentation](https://ieeexplore.ieee.org/abstract/document/9781413)
@@ -46,7 +46,7 @@ My research interest includes medical image analysis and computer vision.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/structure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [H2Former: An efficient hierarchical hybrid transformer for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10093768)
@@ -55,7 +55,7 @@ My research interest includes medical image analysis and computer vision.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images//paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images//paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bilateral Supervision Network for Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10375506)
