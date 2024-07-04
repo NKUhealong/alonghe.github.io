@@ -34,6 +34,8 @@ My research interest includes medical image analysis and computer vision.
 [CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035)
 
 **Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,6 +43,8 @@ My research interest includes medical image analysis and computer vision.
 [Progressive multiscale consistent network for multiclass fundus lesion segmentation](https://ieeexplore.ieee.org/abstract/document/9781413)
 
 **Along He**, Kai Wang, Tao Li, Wang Bo, Hong Kang, and Huazhu Fu.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,13 +52,17 @@ My research interest includes medical image analysis and computer vision.
 [H2Former: An efficient hierarchical hybrid transformer for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10093768)
 
 **Along He**, Kai Wang, Tao Li, Chengkun Du, Shuang Xia and Huazhu Fu.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images//paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bilateral Supervision Network for Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10375506)
 
 **Along He**, Tao Li, Juncheng Yan, Kai Wang, and Huazhu Fu.
-
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* N/A. 
