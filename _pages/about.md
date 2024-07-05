@@ -91,8 +91,8 @@ My research interest includes medical image analysis,semi-supervised learning an
 - *2020.10* Freshman Scholarship of Nankai University.
 
 # 📖 Educations
-- *2020.09 - now*, Ph.D, Nankai University, Tianjin. 
-- *2016.09 - 2020.06*, B.S, Northwest A&F University, Yangling. 
+- *2020.09 - now*, Ph.D, Nankai University, Tianjin, China. 
+- *2016.09 - 2020.06*, B.S, Northwest A&F University, Yangling, Shaanxi, China. 
 
 # 💻 Reviewers
 - Conference Reviewer: MICCAI2023, ISBI 2022.
